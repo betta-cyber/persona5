@@ -1,0 +1,15 @@
+{
+    "title" : "女神异闻录5",
+    "author" : "betta",
+    "description": "",
+    "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+        }
+    },
+    "plugins": [
+        "-search",
+        "back-to-top-button",
+        "theme-comscore"
+    ]
+}
