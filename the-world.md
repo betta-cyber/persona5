@@ -1,8 +1,8 @@
 ---
-description: 世界 THE WORLD
+description: THE WORLD
 ---
 
-# 塔罗-世界
+# 世界
 
 世界牌代表了完美的成果，也是阶段性任务的完成，
 
