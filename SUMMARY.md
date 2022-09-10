@@ -161,6 +161,10 @@
   * [奈比洛斯](demon/nebiros.md)
   * [贝利亚](demon/belial.md)
   * [别西卜](demon/beelzebub.md)
+* [塔](tower/README.md)
+  * [红骑士](tower/hong-qi-shi.md)
+  * [贝尔芬格](tower/bei-er-fen-ge.md)
+  * [佳塔由](tower/jia-ta-you.md)
 * [星](star/README.md)
   * [木灵](star/mu-ling.md)
   * [风鬼](star/feng-gui.md)
@@ -200,4 +204,3 @@
   * [米迦勒](judgement/michael.md)
   * [撒旦](judgement/satan.md)
 * [世界](world.md)
-
